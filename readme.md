@@ -8,4 +8,5 @@
 
 ## three layer architecture
 
-image.png
+![image](https://github.com/nalancay/crossfit-api-node/assets/113408244/6607bce5-96cc-426a-8393-0cebed198fc5)
+
